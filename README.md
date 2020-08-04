@@ -46,7 +46,7 @@ Some parts of the code were adapted from [VoxelMorph](https://github.com/voxelmo
 If you found the repository useful, please cite the lecture note as below:
 
 ```
-@misc{Luo2019DifforphicDemons,
+@misc{Luo2019DiffeomorphicDemons,
   title={Medical Image Analysis, Diffeomorphic Demons},
   author={Xinzhe Luo},
   year={2019}
